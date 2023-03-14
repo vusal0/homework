@@ -1,0 +1,42 @@
+h1,
+h4,
+h5 {
+    text-align: center;
+
+}
+
+.F2,
+.F3 {
+    display: inline-block;
+    text-align: justify;
+    margin-left: 50px;
+    height: 200px;
+    width: 450px;
+
+}
+
+.F3,
+.F2 {
+    display: inline-block;
+    text-align: justify;
+    margin-left: 50px;
+    height: 300px;
+    width: 450px;
+
+}
+
+h3,
+h1 {
+    font-style: italic;
+}
+
+.R1{
+    margin-left: 650px;
+    text-align: justify;
+}
+
+.R2{
+    display: inline-block;
+    text-align: justify;
+    margin-left: 560px;
+}
